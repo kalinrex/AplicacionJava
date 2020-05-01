@@ -153,12 +153,8 @@ public class Form {
 					
 			}
 		});
-		btnCalcular.setBounds(80, 364, 156, 40);
+		btnCalcular.setBounds(203, 358, 156, 40);
 		frame.getContentPane().add(btnCalcular);
-		
-		JButton btnNewButton = new JButton("Resetear");
-		btnNewButton.setBounds(322, 364, 166, 40);
-		frame.getContentPane().add(btnNewButton);
 	}
 	
 
